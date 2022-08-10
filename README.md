@@ -1,4 +1,4 @@
-oOPS LEFT CAPS LOCK ON
+
 
 <!---
 SBiscBoi/SBiscBoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
