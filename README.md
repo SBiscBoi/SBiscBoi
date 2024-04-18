@@ -1,4 +1,4 @@
-Just a 16 year old with way too much free time and not enough stress.
+
 
 <!---
 SBiscBoi/SBiscBoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
